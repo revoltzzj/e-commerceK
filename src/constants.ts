@@ -1,0 +1,1 @@
+export const SHOPEE_LINK = 'https://www.sprstore.com.br/camiseta-spr-versatile-branca/p?utm_source=google&utm_campaign=google-shopping&gad_source=1&gad_campaignid=23797120214&gbraid=0AAAABDZ3lZFECbA1EsBnspcLBx4XjxeS9&gclid=Cj0KCQjwk_bPBhDXARIsACiq8R0KEVGOaydgOBzRJzowixUevXGJ51DZnroqaJ4YipvAJZj3wAE7q3saArEBEALw_wcB'; // Altere este link aqui
